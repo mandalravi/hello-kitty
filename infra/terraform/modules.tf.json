@@ -47,7 +47,7 @@
       "tags": null
     },
     "appcd_8188f7bb-03f2-5c1e-a49a-89f0c4889c5a": {
-      "name": "/aws/lambda/Hello Kitty-function",
+      "name": "/aws/lambda/Hello-Kitty-function",
       "retention_in_days": 7,
       "source": "./modules/aws_cloudwatch_log_group",
       "tags": {
