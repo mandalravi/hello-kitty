@@ -19,7 +19,7 @@
       "event_source_arn": null,
       "event_source_mapping": [],
       "filename": "",
-      "function_name": "RM Kitty-function",
+      "function_name": "RMKitty-function",
       "handler": "main.lambda_handler",
       "log_format": null,
       "log_group_name": "${module.appcd_8188f7bb-03f2-5c1e-a49a-89f0c4889c5a.name}",
